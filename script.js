@@ -1,0 +1,1 @@
+function copyIP(){navigator.clipboard.writeText('play.coinvale.net');alert('Server IP copied!');}
